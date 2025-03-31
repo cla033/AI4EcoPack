@@ -6,3 +6,4 @@ xgboost
 joblib
 fpdf
 matplotlib
+plotly
